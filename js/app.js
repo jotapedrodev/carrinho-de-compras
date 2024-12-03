@@ -31,3 +31,4 @@ document.getElementById('lista-produtos').innerHTML = '';
 document.getElementById('valor-total').textContent= 'R$ 0';
 }
 //joia dmais
+//Deus e bom dmais
